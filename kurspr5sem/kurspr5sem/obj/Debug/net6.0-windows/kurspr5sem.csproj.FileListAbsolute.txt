@@ -1,0 +1,112 @@
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Admin_console.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Admin_panel.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Banned_list.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Forum_menu.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Login_Win.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Reg_Win.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Section_menu.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Themes_Menu.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Theme_tread.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.User_page.resources
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.GenerateResource.cache
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.GeneratedMSBuildEditorConfig.editorconfig
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.AssemblyInfoInputs.cache
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.AssemblyInfo.cs
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.CoreCompileInputs.cache
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.exe
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.deps.json
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.runtimeconfig.json
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.pdb
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\refint\kurspr5sem.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.pdb
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.genruntimeconfig.cache
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\ref\kurspr5sem.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.AssemblyReference.cache
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.CopyComplete
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+E:\1.Для учебы\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.ResolveComReference.cache
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.AssemblyReference.cache
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.ResolveComReference.cache
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Admin_console.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Admin_panel.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Banned_list.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Forum_menu.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Login_Win.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Reg_Win.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Section_menu.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Themes_Menu.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.Theme_tread.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.User_page.resources
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.GenerateResource.cache
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.AssemblyInfoInputs.cache
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.AssemblyInfo.cs
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.CoreCompileInputs.cache
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\refint\kurspr5sem.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.pdb
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.exe
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.deps.json
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.runtimeconfig.json
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\kurspr5sem.pdb
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.Framework.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.IO.Packaging.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.csproj.CopyComplete
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\kurspr5sem.genruntimeconfig.cache
+D:\Учеба\5 семестр\Базы данных\kurspr5sem\kurspr5sem\obj\Debug\net6.0-windows\ref\kurspr5sem.dll
